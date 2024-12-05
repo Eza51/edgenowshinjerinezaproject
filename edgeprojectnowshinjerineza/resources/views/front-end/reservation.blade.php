@@ -14,7 +14,7 @@
   </div>
 @endif
 
-{{-- code by Nowshin Jerin Eza{{-- code by Nowshin Jerin Eza --}} --}}
+<!-- {{-- code by Nowshin Jerin Eza{{-- code by Nowshin Jerin Eza --}} --}} -->
 <!-- Reservation Section -->
 <section class="reservation_section layout_padding">
     <div class="container">
